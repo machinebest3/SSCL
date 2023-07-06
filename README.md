@@ -5,7 +5,9 @@
 
 
 ### Running the code:
-
+```
+python main.py --r 0.5 --t 0.5 
+```
 
 ### Requirements:
 * Python 3.7.13
